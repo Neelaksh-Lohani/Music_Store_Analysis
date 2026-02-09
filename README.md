@@ -160,6 +160,8 @@ This project demonstrates how SQL can be used to transform raw transactional dat
 
 If you found this project interesting or have suggestions for improvement, feel free to connect with me.
 
-🔗 GitHub: [https://github.com/Neelaksh-Lohani](https://github.com/Neelaksh-Lohani)
+🔗 GitHub: https://github.com/Neelaksh-Lohani  
+💼 LinkedIn: https://www.linkedin.com/in/neelaksh-lohani-423b4424b/  
+🐦 X (Twitter): https://x.com/NeelakshBuilds  
 
 
